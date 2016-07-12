@@ -1,0 +1,1 @@
+set(SOURCES "${SOURCES}" test02/Test02.cxx PARENT_SCOPE)
